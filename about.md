@@ -10,6 +10,6 @@ ENGL070: Creative Writing Outreach is taught by Visiting Instructor [Laynie Brow
 
 <br/>
 
-![mccabe library logo](/assets/images/logo-mccabe-web.png)
+![mccabe library logo](/creative-writing-outreach/assets/images/logo-mccabe-web.png)
 
 *Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu)*
