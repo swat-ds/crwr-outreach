@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 author_profile: false
 header:
   overlay_filter: "rgba(100,100,100,.5)"
