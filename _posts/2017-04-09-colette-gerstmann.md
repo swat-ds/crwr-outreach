@@ -4,7 +4,7 @@ category: ['2017']
 excerpt: '“Writing about writing,” focuses on how we might think about writing as an act that is political, that is emotional, and that, for many different reasons, can be difficult or frustrating.'
 header:
   overlay_image: /assets/images/colette-blackboard.png
-  teaser: assets/images/colette-blackboard.png
+  teaser: assets/images/colette-bio.png
   alt: "Classroom blackboard with written in chalk"
 sidebar:
   - title: ""

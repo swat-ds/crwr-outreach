@@ -4,7 +4,7 @@ category: ['2017']
 excerpt: "To utilize their creativity and writing skills in describing the aesthetics of the ‘moon fruit’, a rare and exotic fruit sold in one particular fruit and vegetable stand (spoiler: moon fruits aren’t real)."
 header:
   overlay_image: /assets/images/moonfruit.png
-  teaser: /assets/images/moonfruit.png
+  teaser: /assets/images/nhung-bio.png
 sidebar:
   - title: ""
     image: /assets/images/nhung-bio.png

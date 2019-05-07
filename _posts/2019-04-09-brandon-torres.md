@@ -4,7 +4,7 @@ category: ['2017']
 excerpt: "I talked about my own fears as a child and asked students to discuss their own childhood fears."
 header:
   overlay_image: /assets/images/brandon-student8.png
-  teaser: assets/images/brandon-student8.png
+  teaser: assets/images/brandon-bio.png
 sidebar:
   - title: ""
     image: /assets/images/brandon-bio.png

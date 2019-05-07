@@ -4,9 +4,11 @@ classes: ['about']
 layout: single
 ---
 
-Where do arts, education and activism meet? In this course students explore artistic affinities through creative writing activities and consider arts education and advocacy through diverse texts. Students cultivate skills necessary to becoming Teaching Artists in imaginative writing through coursework as well as through residencies in local schools.  Each student has the opportunity to teach one or more lessons in creative writing toward the end of the semester. Topics covered include: creative curriculum development and presentation, educational climate for grades K-12, and teaching pedagogy. In this archive are statements from students who have taken this course including descriptions of lesson plans and some student writing.
+Creative Writing Outreach, taught by Professor Laynie Browne, is a class where the arts, education and activism meet. This class is cross listed in English and Education. Students in this course practice creative writing, create original curriculum, and participate in a field residency in K-12 schools.
 
-ENGL070: Creative Writing Outreach is taught by Visiting Instructor [Laynie Browne](https://www.swarthmore.edu/profile/elayna-browne) and is supported by both the English Literature and Educational Studies Departments at Swarthmore College.
+[Laynie Browne](https://www.english.upenn.edu/people/laynie-browne) is a poet, prose writer, teacher and editor. She is author of thirteen collections of poems and three novels. Recent books include: *In Garments Worn by Lindens*, *Periodic Companions*, and *The Book of Moments*. Her honors include a Pew Fellowship (2014), the National Poetry Series Award (2007) for her collection *The Scented Fox*, and the Contemporary Poetry Series Award (2005) for her collection *Drawing of a Swan Before Memory*.  Her poetry has been translated into French, Spanish, Chinese and Catalan. Recent collaborations include a public art project, “Dawn Chorus”: a constellation of poetry in 13 languages engraved in The Railpark in Callow Hill, Philadelphia with visual artist Brent Wahl. She teaches at University of Pennsylvania and at Swarthmore College.
+
+Contact: laynie.browne@gmail.com
 
 <br/>
 
